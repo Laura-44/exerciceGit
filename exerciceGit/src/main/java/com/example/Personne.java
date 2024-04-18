@@ -1,6 +1,7 @@
 package com.example;
 
 public class Personne {
+<<<<<<< HEAD
 
 	public void m1() {
 		
@@ -9,4 +10,8 @@ public class Personne {
 		
 	}
 
+=======
+	public void m3() {}
+	
+>>>>>>> Laura
 }
