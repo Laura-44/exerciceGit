@@ -15,5 +15,10 @@ public class animal {
 		
 
 	}
+	
+public void m4() {
+		
+
+	}
 
 }
