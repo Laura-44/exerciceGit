@@ -9,6 +9,14 @@ public class animal {
 		
 
 	}
+<<<<<<< HEAD
 
 	
+=======
+	
+	public void m3() {
+		
+
+	}
+>>>>>>> yass
 }
